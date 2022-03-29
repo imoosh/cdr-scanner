@@ -28,7 +28,9 @@ table_list = ['e_activephonecard', 'e_bindede164', 'e_calleee164limit', 'e_calle
 
 data_dir_list = [
     '/var/lib/mysql',
-    '/data/mysql'
+    '/data/mysql',
+    '/home/mysql',
+    '/home/data/mysql'
 ]
 data_dir = ''
 
